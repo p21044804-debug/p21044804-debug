@@ -1,137 +1,172 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**p21044804-debug/p21044804-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- HEADER BANNER — anime cyberpunk slice -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0,080c14,100,00e5ff&height=180&section=header&text=PAVANKUMAR&fontColor=00e5ff&fontSize=52&fontAlignY=65&fontFamily=Orbitron&desc=Data%20Science%20%7C%20AI%20%2F%20ML%20%7C%20GenAI&descAlignY=82&descColor=7a8fa8&animation=fadeIn" width="100%" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there+%F0%9F%91%8B+I'm+Pavankumar;Data+Science+%7C+AI+%2F+ML+%7C+LLMs;Turning+Data+into+Decisions" alt="Typing SVG" />
-</h1>
-
-<p align="center">
+<!-- BADGES -->
+<p>
   <a href="https://www.linkedin.com/in/pavanpatel1205">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:patelpavan1205@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=p21044804-debug&style=for-the-badge&color=58a6ff&label=Profile+Views" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=p21044804-debug&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS&abbreviated=true" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Internships-39ff14?style=for-the-badge&logo=statuspage&logoColor=white" />
 </p>
+
+</div>
 
 ---
 
-### 🧑‍💻 About Me
+### ⚡ About Me
 
 ```python
-pavan = {
-    "name"       : "Patel Pavankumar Hareshkumar",
-    "location"   : "Gujarat, India 🇮🇳",
-    "education"  : "B.Tech CSE @ Parul University (2024–2028) | CGPA: 8.5",
-    "interests"  : ["Data Science", "Machine Learning", "Generative AI", "LLMs"],
-    "target"     : ["Data Analyst Intern", "Data Science Intern", "AI/ML Intern"],
-    "learning"   : "RAG Architecture & LLM Fine-Tuning",
-    "status"     : "Open to Internships ✅",
-}
+class Pavankumar:
+
+    name       = "Patel Pavankumar Hareshkumar"
+    location   = "Gujarat, India 🇮🇳"
+    education  = "B.Tech CSE @ Parul University (2024–2028)  |  CGPA: 8.5"
+    interests  = ["Data Science", "Machine Learning", "Generative AI", "LLMs", "RAG"]
+    currently  = "Fine-Tuning & RAG-based AI model on custom datasets"
+    seeking    = ["Data Analyst Intern", "Data Science Intern", "AI / ML Intern"]
+
+    def greet(self):
+        return "Turning raw data into decisions. Building with Python, SQL & AI."
 ```
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠 Tech Arsenal
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,git,github,mysql,postgres&theme=dark" />
-</p>
+<div align="center">
 
-| Category | Tools |
-|---|---|
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,git,github,mysql,postgres,vscode&theme=dark&perline=10" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Layer | Stack |
+|:---|:---|
 | **Languages** | Python · Java · C · SQL |
 | **Data & Analytics** | Pandas · NumPy · Excel · EDA · Feature Engineering |
 | **Visualization & BI** | Power BI · Matplotlib |
 | **Databases** | PostgreSQL · MySQL · SQL Server |
-| **AI & GenAI** | GPT API · Prompt Engineering · LLM Fundamentals · RAG (learning) |
-| **Dev Tools** | Git · GitHub · Jupyter Notebook · HTML/CSS |
+| **AI & GenAI** | GPT API · Prompt Engineering · LLM Fundamentals · RAG (learning) · Fine-Tuning |
+| **Dev Tools** | Git · GitHub · Jupyter Notebook · HTML/CSS · Gamma |
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=p21044804-debug&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee787&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=p21044804-debug&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p21044804-debug&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=p21044804-debug&theme=github-dark&bg_color=0d1117&color=58a6ff&line=7ee787&point=f78166&hide_border=true" />
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=p21044804-debug&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080c14&title_color=00e5ff&icon_color=b400ff&text_color=c8d8e8&ring_color=00e5ff&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=p21044804-debug&theme=tokyonight&hide_border=true&background=080c14&stroke=1a2236&ring=00e5ff&fire=ff2d78&currStreakLabel=00e5ff&sideLabels=c8d8e8&dates=4a5e78&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p21044804-debug&layout=compact&theme=tokyonight&hide_border=true&bg_color=080c14&title_color=00e5ff&text_color=c8d8e8&langs_count=8" />
+
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🌐 Contribution Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=p21044804-debug&theme=algolia&no-frame=true&column=6&margin-w=8&margin-h=8" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=p21044804-debug&theme=tokyo-night&bg_color=080c14&color=00e5ff&line=b400ff&point=ff2d78&area=true&area_color=00e5ff&hide_border=true" width="98%" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/p21044804-debug/p21044804-debug/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/p21044804-debug/p21044804-debug/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/p21044804-debug/p21044804-debug/blob/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+> **Note:** To activate the snake, create `.github/workflows/snake.yml` — instructions at the bottom of this README.
 
 ---
 
 ### 🚀 Featured Projects
 
+<div align="center">
+
 <a href="https://github.com/p21044804-debug/customer_shopping_behavior_analysis">
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=p21044804-debug&repo=customer_shopping_behavior_analysis&theme=github_dark&hide_border=true&bg_color=161b22&title_color=58a6ff&icon_color=7ee787&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=p21044804-debug&repo=customer_shopping_behavior_analysis&theme=tokyonight&hide_border=true&bg_color=0b1120&title_color=00e5ff&icon_color=b400ff&text_color=c8d8e8&border_color=1a2236" />
 </a>
 
-<br clear="left"/>
+</div>
 
-#### 🔬 Customer Shopping Behavior Analysis
-> End-to-end data analytics project on ~3,900 customer transactions.
-- 🐍 Python (Pandas, NumPy, Matplotlib) for EDA & cleaning
-- 🗄️ PostgreSQL / MySQL for business-level SQL queries
-- 📊 Interactive Power BI dashboard with KPIs, filters, and revenue breakdowns
-- 📋 Stakeholder report via Gamma presentation
+<br/>
 
-**Stack:** `Python` `SQL` `Power BI` `Pandas` `PostgreSQL` `Jupyter`
+#### 🔵 Customer Shopping Behavior Analysis
+> End-to-end analytics on **~3,900 customer transactions**
 
----
+- 🐍 Python (Pandas, NumPy, Matplotlib) — data cleaning, EDA, and feature engineering
+- 🗄️ PostgreSQL / MySQL — revenue segmentation, subscription impact, shipping performance queries
+- 📊 Interactive Power BI dashboard — KPIs, demographic filters, category-level revenue breakdowns
+- 📋 Structured business report and Gamma-powered stakeholder presentation
 
-#### 🤖 AI Chatbot using GPT API
-> Conversational AI powered by GPT API with advanced prompt engineering.
-- Integrated GPT API for dynamic natural-language responses
-- Applied prompt strategies for contextual accuracy and conversation flow
-- Managed API session state and error handling
-
-**Stack:** `Python` `GPT API` `Prompt Engineering` `LLM`
+`Python` `Pandas` `NumPy` `PostgreSQL` `Power BI` `Jupyter` `EDA`
 
 ---
 
-#### 🔧 Fine-Tuning & RAG-Based AI Model *(In Progress)*
-> Domain-specific LLM customization via RAG and fine-tuning.
-- Exploring Retrieval-Augmented Generation for improved contextual retrieval
-- Experimenting with fine-tuning workflows on custom datasets
-- Building knowledge of vector search and LLM pipeline optimization
+#### 🟣 AI Chatbot using GPT API
+> Conversational AI with advanced prompt engineering
 
-**Stack:** `Python` `RAG` `LLMs` `Fine-Tuning`
+- Integrated GPT API for dynamic, context-aware natural-language responses
+- Applied prompt strategies for improved contextual accuracy and relevance
+- Engineered conversation-flow logic with session-state and error management
+
+`Python` `GPT API` `Prompt Engineering` `LLM`
 
 ---
 
-### 🏅 Achievements
+#### 🔴 Fine-Tuning & RAG-Based AI Model *(In Progress)*
+> Domain-specific LLM customization
 
-| 🏆 Achievement | 📍 Event |
-|---|---|
-| 🥈 **1st Winner** | ROBOFEST 5.0 |
+- Designing Retrieval-Augmented Generation (RAG) pipelines for targeted information retrieval
+- Experimenting with LLM fine-tuning on custom datasets for domain-specific performance
+- Building exposure to vector search integration and AI workflow optimization
+
+`Python` `RAG` `LLMs` `Fine-Tuning` `Vector Search`
+
+---
+
+### 🏆 Achievements
+
+<div align="center">
+
+| Award | Event |
+|:---:|:---|
+| 🥇 **1st Winner** | ROBOFEST 5.0 |
 | ⚡ Participant | UIDAI Data Hackathon 2026 |
-| 🛠️ Participant | Odoo Hackathon |
+| 🛠 Participant | Odoo Hackathon |
 | 🎓 Participant | Parul University Hackathon |
+
+</div>
 
 ---
 
@@ -143,32 +178,76 @@ pavan = {
 
 ---
 
-### 📈 Contribution Graph
+### 🎯 Seeking Roles
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=p21044804-debug&theme=github-dark&bg_color=0d1117&color=58a6ff&line=7ee787&point=f78166&area=true&hide_border=true" width="98%" />
-</p>
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/Data%20Analyst%20Intern-00e5ff?style=for-the-badge&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Data%20Science%20Intern-b400ff?style=for-the-badge&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/AI%20%2F%20ML%20Intern-ff2d78?style=for-the-badge&logoColor=white" />
 
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pavanpatel1205">
-    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:patelpavan1205@gmail.com">
-    <img src="https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>Open to Data Analyst · Data Science · AI/ML internship opportunities 🚀</i>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=80&section=footer&reversal=false" />
-</p>
+### 🤝 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pavanpatel1205">
+  <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:patelpavan1205@gmail.com">
+  <img src="https://img.shields.io/badge/Drop_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<details>
+<summary><b>⚙️ Activate the Contribution Snake (click to expand)</b></summary>
+
+<br/>
+
+Create this file: `.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,00e5ff,100,b400ff&height=100&section=footer&reversal=false" width="100%" />
+
+</div>
